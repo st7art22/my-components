@@ -1,0 +1,21 @@
+
+.slider {
+    display: block;
+}
+
+.slides {
+    white-space: nowrap;
+    position: relative;
+    width: 100%;
+}
+
+.slide {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.slide img {
+    transform-style: initial;
+}
